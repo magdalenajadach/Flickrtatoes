@@ -1,2 +1,2 @@
 # Flickrtatoes
-Single page application built with AngularJS http://magdalenajadach.github.io/flickrtatoes/#/list 
+Single page application built with AngularJS - visit it [here!](https://magdalenajadach.github.io/flickrtatoes/)
